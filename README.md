@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DVSG09
 - 👀 I’m interested in DSA , Wed Dev and Neural Networks.
-- 🌱 I’m currently learning  algorithms for machine learning.
+- 🌱 I’m currently learning  algorithms for neural network.
 - 💞️ I’m looking to collaborate on projects where i can pageant my skillset.
 
 <!---
